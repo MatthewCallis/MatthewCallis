@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello!
 
-<!--
-**MatthewCallis/MatthewCallis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Matthew Callis and I love programming, Super Nintendo, cheese, Mexican food, cats, and many other things. Some of my notable public projects:
 
-Here are some ideas to get you started:
+- 🤔 [wiki.superfamicom.org](https://wiki.superfamicom.org/) - My Super Nintendo / Super Famicom development wiki
+- 🎹 [sfc.fm](https://sfc.fm/) - sfc.fm is a project to listen to the SNES video game soundtracks I played as a kid in a browser
+- 🥁 [Super Pads](https://github.com/MatthewCallis/super-pads) - Super Pads helps manage samples on a SP-404SX
+- 🔭 [eludevisibility.org](https://eludevisibility.org/) - My not-dead blog that I update with video game archival information
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find me online:
+
+- 👩🏼‍🚀 [LinkedIn](https://linkedin.com/in/matthewcallis/)
+- 🦚 [Twitter](https://twitter.com/superfamicom)
+- 📸 [Instagram](https://www.instagram.com/matthewcallis/)
+- 🎶 [SoundCloud](https://soundcloud.com/superfamicom)
+- 🎷 [Spotify](https://open.spotify.com/artist/0FYTwSXr4Q7Ujml4wW7Y97)
+- 🎸 [Bandcamp](https://matthewcallis.bandcamp.com/)
