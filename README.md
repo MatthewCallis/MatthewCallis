@@ -16,4 +16,4 @@ You can find me online:
 - 🎷 - [Spotify](https://open.spotify.com/artist/0FYTwSXr4Q7Ujml4wW7Y97)
 - 🎸 - [Bandcamp](https://matthewcallis.bandcamp.com/)
 - 🎮 - [Steam](https://steamcommunity.com/id/superfamicom/)
-- 📜 - [Resume](https://sfc.fm/Matthew%20Callis%20-%20Resume.pdf)
+- 📜 - [Resume](https://mondaybear.com/Matthew%20Callis%20-%20Resume.pdf)
